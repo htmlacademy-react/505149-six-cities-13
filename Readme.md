@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Denis Popov](https://up.htmlacademy.ru/react/13/user/505149).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Севостьянов](https://htmlacademy.ru/profile/pavel).
 
 ---
 
